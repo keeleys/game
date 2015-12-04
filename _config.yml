@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 游戏资料
+title: 凉水的游戏站
 subtitle:
 description:
-author: keeleys
-language:
+author: keeley
+language: zh-hk
 timezone:
-
+avatar: /game/images/avatar.jpg
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://ttianjun.com/game
